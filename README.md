@@ -4,5 +4,5 @@
 
 <ul>
 <li><a href="lab2/index.html" target="_blank">Lab 2</a></li>
-<a href="final/index.html"></a>
+  <li><a href="final/index.html"></a></li>
 </ul>
